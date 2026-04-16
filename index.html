@@ -4,7 +4,7 @@
 body { 
   background-image: linear-gradient(to right, #2E8B57, #DDA0DD, #2E8B57);
 }
-  .center {
+.center {
     display: block;
     margin-left: auto;
     margin-right: auto;
@@ -17,6 +17,14 @@ audio {
         /*background-color: #fff;  /* Optional background */
         border-radius: 8px;      /* Rounded corners */
         box-shadow: 0 4px 8px rgba(0,0,0,0.2); /* Optional shadow */
+}
+.shadow-image {
+        display: block;          /* Ensures margin works as expected */
+        margin: 20px;            /* Buffer around the player */
+        padding: 10px;           /* Inner spacing (optional) */
+        border-radius: 8px; /* Optional: rounded corners */
+        /* Box shadow: offset-x, offset-y, blur-radius, spread-radius, color */
+        box-shadow: 0 4px 8px rgba(0,0,0,0.2);
 }
 </style>
 
