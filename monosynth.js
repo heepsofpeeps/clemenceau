@@ -1,3 +1,6 @@
+<script src="https://p5js.org/assets/libs/p5.min.js"></script>
+<script src="https://p5js.org/assets/libs/addons/p5.sound.min.js"></script>
+
 let monoSynth;
 
 function setup() {
