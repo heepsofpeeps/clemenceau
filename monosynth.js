@@ -20,7 +20,7 @@ function setup() {
 }
 
 function draw() {
-  background(220);
+  background('#DDA0DD');
 
   // Map mouse X to delay time (0.05s → 0.6s)
   let delayTime = map(mouseX, 0, width, 0.05, 0.6, true);
