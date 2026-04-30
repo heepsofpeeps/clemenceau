@@ -1,7 +1,7 @@
 <script src="https://p5js.org/assets/libs/p5.min.js"></script>
 <script src="https://p5js.org/assets/libs/addons/p5.sound.min.js"></script>
 <script src="https://p5js.org/reference/p5.sound/p5.MonoSynth/"></script>
-<script src="https://p5js.org/assets/lib/addons/p5.sound.js"></script>
+<script src="https://p5js.org/assets/libs/addons/p5.sound.js"></script>
 <script src="https://p5js.org/assets/libs/p5.js"></script>
 
 let monoSynth;
